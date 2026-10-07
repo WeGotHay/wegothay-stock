@@ -12,7 +12,7 @@
       "price": "$210",
       "price_unit": "a bale",
       "price_number": "210",
-      "count": 29,
+      "count": 24,
       "count_unit": "bales",
       "status": "in_stock",
       "hide": false
@@ -27,7 +27,7 @@
       "price": "$150",
       "price_unit": "a bale",
       "price_number": "150",
-      "count": 33,
+      "count": 28,
       "count_unit": "bales",
       "status": "in_stock",
       "hide": false
@@ -42,7 +42,7 @@
       "price": "$190",
       "price_unit": "a bale",
       "price_number": "190",
-      "count": 10,
+      "count": 69,
       "count_unit": "bales",
       "status": "in_stock",
       "hide": false
@@ -103,7 +103,7 @@
       "price": "$340",
       "price_unit": "a bundle",
       "price_number": "340",
-      "count": 20,
+      "count": 18,
       "count_unit": "bundles",
       "status": "in_stock",
       "hide": false
