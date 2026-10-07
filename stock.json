@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-25",
+  "as_of": "2026-10-07",
   "phone": "573-465-1264",
   "products": [
     {
@@ -72,7 +72,7 @@
       "price": "$420",
       "price_unit": "a bundle",
       "price_number": "420",
-      "count": 21,
+      "count": 18,
       "count_unit": "bundles",
       "status": "in_stock",
       "hide": false
