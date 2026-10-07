@@ -12,7 +12,7 @@
       "price": "$210",
       "price_unit": "a bale",
       "price_number": "210",
-      "count": 24,
+      "count": 16,
       "count_unit": "bales",
       "status": "in_stock",
       "hide": false
@@ -103,7 +103,7 @@
       "price": "$340",
       "price_unit": "a bundle",
       "price_number": "340",
-      "count": 18,
+      "count": 16,
       "count_unit": "bundles",
       "status": "in_stock",
       "hide": false
