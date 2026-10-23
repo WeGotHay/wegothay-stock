@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-23",
   "phone": "573-465-1264",
   "products": [
     {
@@ -125,17 +125,17 @@
     },
     {
       "id": "ks-brome-bundle",
-      "name": "Kansas Brome",
-      "note": "Baled leafy",
+      "name": "Northeast Kansas Brome",
+      "note": "Baled in May — soft, leafy, bright",
       "bale": "2-string bundle",
       "bale_note": "21 bales, ~65 lb each",
       "weight": "~1,365 lb",
       "price": "$300",
       "price_unit": "a bundle",
       "price_number": "300",
-      "count": 0,
+      "count": 12,
       "count_unit": "bundles",
-      "status": "sold_out",
+      "status": "in_stock",
       "hide": false
     },
     {
