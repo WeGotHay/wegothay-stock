@@ -27,9 +27,9 @@
       "price": "$150",
       "price_unit": "a bale",
       "price_number": "150",
-      "count": 5,
+      "count": null,
       "count_unit": "bales",
-      "status": "in_stock",
+      "status": "call",
       "hide": false
     },
     {
@@ -42,7 +42,7 @@
       "price": "$190",
       "price_unit": "a bale",
       "price_number": "190",
-      "count": 55,
+      "count": 54,
       "count_unit": "bales",
       "status": "in_stock",
       "hide": false
