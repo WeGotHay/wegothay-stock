@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23",
+  "as_of": "2026-11-03",
   "phone": "573-465-1264",
   "products": [
     {
@@ -12,7 +12,22 @@
       "price": "$210",
       "price_unit": "a bale",
       "price_number": "210",
-      "count": 72,
+      "count": 43,
+      "count_unit": "bales",
+      "status": "in_stock",
+      "hide": false
+    },
+    {
+      "id": "moberly-alfalfa-3x3",
+      "name": "Moberly Alfalfa",
+      "note": "",
+      "bale": "3x3",
+      "bale_note": "",
+      "weight": "",
+      "price": "Call for price",
+      "price_unit": "",
+      "price_number": "",
+      "count": 22,
       "count_unit": "bales",
       "status": "in_stock",
       "hide": false
@@ -27,9 +42,24 @@
       "price": "$150",
       "price_unit": "a bale",
       "price_number": "150",
-      "count": null,
+      "count": 50,
       "count_unit": "bales",
-      "status": "call",
+      "status": "in_stock",
+      "hide": false
+    },
+    {
+      "id": "moberly-brome-3x3",
+      "name": "Moberly Brome",
+      "note": "",
+      "bale": "3x3",
+      "bale_note": "",
+      "weight": "",
+      "price": "Call for price",
+      "price_unit": "",
+      "price_number": "",
+      "count": 19,
+      "count_unit": "bales",
+      "status": "in_stock",
       "hide": false
     },
     {
@@ -42,7 +72,7 @@
       "price": "$190",
       "price_unit": "a bale",
       "price_number": "190",
-      "count": 54,
+      "count": 48,
       "count_unit": "bales",
       "status": "in_stock",
       "hide": false
@@ -72,7 +102,7 @@
       "price": "$420",
       "price_unit": "a bundle",
       "price_number": "420",
-      "count": 17,
+      "count": 15,
       "count_unit": "bundles",
       "status": "in_stock",
       "hide": false
@@ -103,7 +133,7 @@
       "price": "$340",
       "price_unit": "a bundle",
       "price_number": "340",
-      "count": 14,
+      "count": 12,
       "count_unit": "bundles",
       "status": "in_stock",
       "hide": false
@@ -133,7 +163,7 @@
       "price": "$300",
       "price_unit": "a bundle",
       "price_number": "300",
-      "count": 12,
+      "count": 31,
       "count_unit": "bundles",
       "status": "in_stock",
       "hide": false
