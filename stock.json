@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-14",
   "phone": "573-465-1264",
   "products": [
     {
@@ -12,7 +12,7 @@
       "price": "$210",
       "price_unit": "a bale",
       "price_number": "210",
-      "count": 43,
+      "count": 41,
       "count_unit": "bales",
       "status": "in_stock",
       "hide": false
@@ -42,7 +42,7 @@
       "price": "$130",
       "price_unit": "a bale",
       "price_number": "130",
-      "count": 68,
+      "count": 64,
       "count_unit": "bales",
       "status": "in_stock",
       "hide": false
@@ -72,7 +72,7 @@
       "price": "$190",
       "price_unit": "a bale",
       "price_number": "190",
-      "count": 86,
+      "count": 84,
       "count_unit": "bales",
       "status": "in_stock",
       "hide": false
