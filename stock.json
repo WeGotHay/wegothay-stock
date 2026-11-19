@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-18",
+  "as_of": "2026-11-19",
   "phone": "573-465-1264",
   "products": [
     {
@@ -102,7 +102,7 @@
       "price": "$420",
       "price_unit": "a bundle",
       "price_number": "420",
-      "count": 12,
+      "count": 11,
       "count_unit": "bundles",
       "status": "in_stock",
       "hide": false
@@ -133,7 +133,7 @@
       "price": "$340",
       "price_unit": "a bundle",
       "price_number": "340",
-      "count": 12,
+      "count": 11,
       "count_unit": "bundles",
       "status": "in_stock",
       "hide": false
@@ -163,7 +163,7 @@
       "price": "$300",
       "price_unit": "a bundle",
       "price_number": "300",
-      "count": 28,
+      "count": 27,
       "count_unit": "bundles",
       "status": "in_stock",
       "hide": false
